@@ -45,17 +45,36 @@ Git • GitHub • VS Code • Postman
 
 ## 🚀 Featured Projects
 
-### 🏥 Vatsalya - AI Healthcare Platform
-AI-powered healthcare assistance platform providing symptom analysis, hospital recommendations, emergency support and first-aid guidance.
+### 🏥 Vatsalya – AI-Powered Healthcare Platform
 
-### 📚 NoteGenius - AI PDF Study Assistant
-AI-powered study assistant that converts PDF notes into summaries, flashcards, MCQs and long-answer questions.
+Developed a full-stack healthcare platform featuring symptom analysis, hospital recommendations, emergency assistance, and first-aid guidance, demonstrating expertise in backend development, database design, REST APIs, and end-to-end application development.
 
-### 🗺 Campus Compass - Smart Navigation System
-Smart campus navigation system designed to help students navigate across campus blocks and floors.
+**Skills:** Full Stack • Database Design • REST APIs • Node.js • Express.js • MySQL
 
-### 📦 Asset Tracking System
-Full-stack web application for managing and tracking institutional assets.
+---
+
+### 📚 NoteGenius – AI PDF Study Assistant
+
+Built an AI-powered study assistant that transforms PDF notes into summaries, flashcards, MCQs, and long-answer questions through intelligent document processing and AI integration.
+
+**Skills:** AI Integration • File Processing • React • Node.js • Gemini API
+
+---
+
+### 🌦️ Weather App
+
+Developed a responsive weather application that fetches and displays real-time weather information through third-party API integration and an interactive frontend interface.
+
+**Skills:** API Integration • Frontend Development • JavaScript • HTML • CSS
+
+---
+
+### 💰 Expense Tracker
+
+Built a web-based personal finance tracker for managing income and expenses with persistent browser storage and intuitive user interactions.
+
+**Skills:** CRUD Operations • Local Storage • JavaScript • HTML • CSS
+
 
 ---
 
