@@ -18,7 +18,7 @@ THINK • BUILD • IMPROVE • REPEAT
 
 - 🎓 B.Tech CSE (IoT) student at PSIT, Kanpur
 - 💻 Interested in Full-Stack Development and Problem Solving
-- 🌱 Currently learning DSA in Java and JavaScript
+- 🌱 Currently learning DSA 
 - 🚀 Building real-world projects using JavaScript, Node.js, Express.js and MySQL
 - 🎯 Preparing for placement opportunities
 
