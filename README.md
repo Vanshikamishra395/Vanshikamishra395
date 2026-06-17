@@ -73,5 +73,5 @@ Full-stack web application for managing and tracking institutional assets.
 
 ## 📫 Connect With Me
 
-- LinkedIn: linkedin.com/in/vanshika-mishra03
+- LinkedIn: https://www.linkedin.com/in/vanshika-mishra03/
 - Email: vanshikamishra698@gmail.com
